@@ -25,7 +25,7 @@ Le système prend en charge un fichier au format **CoNNL** *parfaitement formé*
 
 Ex:
 
-![](./gif/ezgif.com-video-to-gif9b6c72424b5a27fe.gif)
+![](./gif/upload_fichier.gif)
 
 ## 2. Choisir la taille du corpus
 
@@ -42,7 +42,7 @@ On peut selectionner 50% du corpus ou seulement son troisème quart : de 50% à 
 
 Après l'upload du fichier, des statistiques simples sur les **POS Tag** et **Dependances** sont calculés automatiquement.
 
-![](./gif/graph1e4342c25077602e.gif)
+![](./gif/graph.gif)
 
 
 ## 4. Génerer la table des relations
@@ -59,7 +59,7 @@ Pour afficher les phrases contenant une relation, il vous suffit de cliquer sur 
 
 Ex : 
 
-![](./gif/phrase5a7b91428611aa7e.gif)
+![](./gif/phrase.gif)
 
 ## 5. Modifier les arbres
 
