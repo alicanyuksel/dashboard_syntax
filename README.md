@@ -25,7 +25,7 @@ Le système prend en charge un fichier au format **CoNNL** *parfaitement formé*
 
 Ex:
 
-![](https://s5.gifyu.com/images/ezgif.com-video-to-gif9b6c72424b5a27fe.gif)
+![](./gif/ezgif.com-video-to-gif9b6c72424b5a27fe.gif)
 
 ## 2. Choisir la taille du corpus
 
@@ -36,13 +36,13 @@ Ex:
 
 On peut selectionner 50% du corpus ou seulement son troisème quart : de 50% à 75%.
 
-![](https://s5.gifyu.com/images/taille_corpus.gif)
+![](./gif/taille_corpus.gif)
 
 ## 3. Visualiser les statistiques
 
 Après l'upload du fichier, des statistiques simples sur les **POS Tag** et **Dependances** sont calculés automatiquement.
 
-![](https://s5.gifyu.com/images/graph1e4342c25077602e.gif)
+![](./gif/graph1e4342c25077602e.gif)
 
 
 ## 4. Génerer la table des relations
@@ -51,7 +51,7 @@ Vous pouvez générer une table des relations très facilement grâce au bouton 
 
 Ex : 
 
-![](https://s5.gifyu.com/images/generate_tableau.gif)
+![](./gif/generate_tableau.gif)
 
 ## 5. Visualiser des phrases obtenues par la table des relations
 
@@ -59,7 +59,7 @@ Pour afficher les phrases contenant une relation, il vous suffit de cliquer sur 
 
 Ex : 
 
-![](https://s5.gifyu.com/images/phrase5a7b91428611aa7e.gif)
+![](./gif/phrase5a7b91428611aa7e.gif)
 
 ## 5. Modifier les arbres
 
@@ -76,7 +76,7 @@ Utilisation de l'éditeur :
 
 Ex : 
 
-![](https://s5.gifyu.com/images/quick_edit.gif)
+![](./gif/quick_edit.gif)
 
 ## 6. Exporter et télécharger un nouveau fichier CoNNL avec les modifications
 
