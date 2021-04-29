@@ -1,0 +1,36 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: dash
+    versions:
+    - "> 1.7.0"
+  - dependency-name: dash-core-components
+    versions:
+    - "> 1.6.0"
+  - dependency-name: flask
+    versions:
+    - "> 1.1.1"
+  - dependency-name: flask-compress
+    versions:
+    - "> 1.4.0"
+  - dependency-name: plotly
+    versions:
+    - "> 4.4.1"
+  - dependency-name: werkzeug
+    versions:
+    - "> 0.16.0"
+  - dependency-name: dash-html-components
+    versions:
+    - 1.1.2
+  - dependency-name: dash-table
+    versions:
+    - 4.11.2
+  - dependency-name: dash-renderer
+    versions:
+    - 1.9.0
