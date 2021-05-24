@@ -1,4 +1,4 @@
-Click==7.1.2
+Click==8.0.1
 dash==1.7.0
 dash-core-components==1.6.0
 dash-html-components==1.0.2
